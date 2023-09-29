@@ -1,6 +1,6 @@
 # Calculus
 
-Calculus, linear algebra and probability are the 'languages' in which machine learning is written. 
+Calculus, linear algebra, and probability are the 'languages' in which machine learning is written. 
 Learning these topics will provide a deeper understanding of the underlying algorithmic mechanics and allow the development of new algorithms, which can ultimately be deployed as more sophisticated quantitative trading strategies.
 
 Calculus is the mathematical study of continuous change. You need to know some basic calculus to understand better the machine learning concepts and the function's behavior.
