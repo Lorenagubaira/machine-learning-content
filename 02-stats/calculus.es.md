@@ -51,7 +51,7 @@ Una derivada se puede definir de dos maneras:
 
 1.	Tasa de cambio instantáneo (Física).
 
-2.	La pendiente de una línea en un punto específico (Geometría)
+2.	La pendiente de una línea en un punto específico (Geometría).
 
 Nosotros vamos a usar la definición de geometría para una explicación mas sencilla.
 
