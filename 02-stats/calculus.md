@@ -18,7 +18,7 @@ So, thinking like an engineer, we don't just care about finding answers. We care
 
 For example, if we wanted to know how far a person walked based on its velocity at each point of time, we can divide it by many points in time and multiply the velocity at each time (t) by some small change in time (dt) to get the corresponding smaller distance walked in that smaller time.
 
-Many of these types of problems turn out to be equivalent to finding the area under some graph. The purpose of small approximations is that it lets us reframe the problem of how far the person has walked into the question of finding the area under a certain curve.
+Many of these types of problems turn out to be equivalent to finding the area under some graph. The purpose of small approximations is to let us reframe the problem of how far the person has walked into the question of finding the area under a certain curve.
 
 ![calculus_graph_slopes.jpg](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/assets/calculus_graph1.jpg?raw=true)
 
