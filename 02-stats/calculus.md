@@ -11,7 +11,7 @@ Let's talk about the three big ideas of Calculus: Integrals, Derivatives, and th
 
 **Integrals** let you calculate the total amount of a quantity that accumulates over a time period.
 
-So, thinking like an engineer, we don't just care about finding answers. We care about developing problem-solving tools and techniques. A big theme in Calculus is that the approximation using many smaller pieces gives us the flexibility to reframe our original question into something simpler. A hard problem is on one hand the sum of many small values, but on the other hand, that sum also approaches the area under a graph.
+So, thinking like a mathematician or engineer, we don't just care about finding answers. We care about developing problem-solving tools and techniques. A big theme in Calculus is that the approximation using many smaller pieces gives us the flexibility to reframe our original question into something simpler. A hard problem is on one hand the sum of many small values, but on the other hand, that sum also approaches the area under a graph.
 
 
 ### Integrals
