@@ -11,7 +11,7 @@ Vamos a hablar sobre las tres grandes ideas del Cálculo: Integrales, Derivadas,
 
 **Integrales** te permiten calcular el total de una cantidad que se acumula durante un período de tiempo.
 
-Entonces, pensando como un ingeniero, no solo nos importa encontrar las respuestas. Nos preocupamos por desarrollar herramientas y técnicas de resolución de problemas. Un gran tema en Cálculo es que la aproximación usando muchas piezas más pequeñas nos da la flexibilidad de reformular nuestra pregunta original en algo más simple. Un gran problema es por un lado, la suma de muchos valores pequeños, pero por otro lado, esa suma también se aproxima al área bajo un gráfico.
+Entonces, pensando como un ingeniero, no solo nos importa encontrar las respuestas. Nos preocupamos por desarrollar herramientas y técnicas para resolución de problemas. Un gran tema en Cálculo es que la aproximación usando muchas piezas más pequeñas nos da la flexibilidad de reformular nuestra pregunta original en algo más simple. Un gran problema es por un lado, la suma de muchos valores pequeños, pero por otro lado, esa suma también se aproxima al área bajo un gráfico.
 
 ### Integrales
 
