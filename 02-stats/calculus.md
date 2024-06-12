@@ -1,6 +1,6 @@
 # Calculus
 
-Calculus, linear algebra and probability are the 'languages' in which machine learning is written. 
+Calculus, linear algebra, and probability are the 'languages' in which machine learning is written. 
 Learning these topics will provide a deeper understanding of the underlying algorithmic mechanics and allow the development of new algorithms, which can ultimately be deployed as more sophisticated quantitative trading strategies.
 
 Calculus is the mathematical study of continuous change. You need to know some basic calculus to understand better the machine learning concepts and the function's behavior.
@@ -30,14 +30,14 @@ The integral of $f(x)$ corresponds to the computation of the area under the grap
 
 ![formula_1.png](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/assets/formula_1.png?raw=true)
 
-The area $A(a,b)$ is bounded by the function $f(x)$ from above, by the x-axis from below, and by two vertical lines at $x = a$ and $x = b$. Those two points $x = a$ and $x = b$ are denoted the limits of integration. The $∫$ sign comes from the Latin word summa. The integral is the sum of the values of $f(x)$ between the two limits of integration.
+The area $A(a,b)$ is bounded by the function $f(x)$ from above, by the x-axis from below, and by two vertical lines at $x = a$ and $x = b$. Those two points $x = a$ and $x = b$ are denoted by the limits of integration. The $∫$ sign comes from the Latin word summa. The integral is the sum of the values of $f(x)$ between the two limits of integration.
 The area under $f(x)$ between $x = a$ and $x = b$ is obtained by calculating the change in the integral function as follows:
 
 ![formula_2.png](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/assets/formula_2.png?raw=true)
 
 ![calculus_graph5.jpg](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/assets/calculus_graph5.jpg?raw=true)
 
-We can approximate the total area under the function $f(x)$ between $x = a$ and $x = b$ by splitting the graph into small vertical rectangular strips of width $h$, then adding up the areas of those rectangular strips. The figure below shows how to compute the area under $f(x) = x2$ between $x = 3$ and $x = 6$ by approximating it as six rectangular strips of width $h = 0.5$.
+We can approximate the total area under the function $f(x)$ between $x = a$ and $x = b$ by splitting the graph into small vertical rectangular strips of width $h$, and then adding up the areas of those rectangular strips. The figure below shows how to compute the area under $f(x) = x2$ between $x = 3$ and $x = 6$ by approximating it as six rectangular strips of width $h = 0.5$.
 
 
 So to recap $A(x)$ which gives the area under the graph of x2 between some fixed-left point and some variable right point gives us a clear panoram that many practical problems that can be approximated by adding up a large number of small things can be reframed as a question about the area under a certain curve.
