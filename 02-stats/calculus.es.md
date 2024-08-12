@@ -11,18 +11,18 @@ Vamos a hablar sobre las tres grandes ideas del Cálculo: Integrales, Derivadas,
 
 **Integrales** te permiten calcular el total de una cantidad que se acumula durante un período de tiempo.
 
-Entonces, pensando como un ingeniero, no solo nos importa encontrar las respuestas. Nos preocupamos por desarrollar herramientas y técnicas de resolución de problemas. Un gran tema en Cálculo es que la aproximación usando muchas piezas más pequeñas nos da la flexibilidad de reformular nuestra pregunta original en algo más simple. Un gran problema es por un lado, la suma de muchos valores pequeños, pero por otro lado, esa suma también se aproxima al área bajo un gráfico.
+Entonces, pensando como un ingeniero, no solo nos importa encontrar las respuestas. Nos preocupamos por desarrollar herramientas y técnicas de resolución de problemas. Un gran tema en cálculo es que la aproximación usando muchas piezas más pequeñas nos da la flexibilidad de reformular nuestra pregunta original en algo más simple. Un gran problema es por un lado, la suma de muchos valores pequeños, pero por otro lado, esa suma también se aproxima al área bajo un gráfico.
 
 ### Integrales
 
-Por ejemplo, si quisieramos saber cuan lejos ha caminado una persona basada en su velocidad en cada punto del tiempo, podemos dividirlo por muchos puntos en el tiempo y multiplicar la velocidad en cada instante (t) por un pequeño cambio en el tiempo (dt) para obtener la distancia más pequeña correspondiente recorrida en ese periodo más pequeño.
+Por ejemplo, si quisiéramos saber cuán lejos ha caminado una persona basada en su velocidad en cada punto del tiempo, podemos dividirlo por muchos puntos en el tiempo y multiplicar la velocidad en cada instante (t) por un pequeño cambio en el tiempo (dt) para obtener la distancia más pequeña correspondiente recorrida en ese periodo más pequeño.
 
 Muchos de estos tipos de problemas terminan siendo equivalentes a encontrar el área debajo de un gráfico. El propósito de las pequeñas aproximaciones es que nos permite replantear el problema de qué tan lejos ha caminado la persona en la pregunta de encontrar el área bajo cierta curva.
 
 ![calculus_graph_slopes.jpg](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/assets/calculus_graph1.jpg?raw=true)
 
 
-Entonces, ya habiendo resuelto el problema reformulándolo como un área debajo de un gráfico, puedes empezar a pensar sobre como conseguir el área debajo de otros gráficos. Ahora veamos un gráfico diferente.
+Entonces, ya habiendo resuelto el problema reformulándolo cómo un área debajo de un gráfico, puedes empezar a pensar sobre como conseguir el área debajo de otros gráficos. Ahora veamos un gráfico diferente.
 
 ![calculus_graph2.jpg](https://github.com/4GeeksAcademy/machine-learning-content/blob/master/assets/calculus_graph2.jpg?raw=true)
 
@@ -53,7 +53,7 @@ Una derivada se puede definir de dos maneras:
 
 2.	La pendiente de una línea en un punto específico (Geometría)
 
-Nosotros vamos a usar la definición de geometría para una explicación mas sencilla.
+Nosotros vamos a usar la definición de geometría para una explicación más sencilla.
 
 La pendiente representa la inclinación de una recta. Significa: ¿Cuánto cambia $y$ (o $f(x)$) dado un cambio específico en $x$?
 
@@ -67,7 +67,7 @@ La pendiente entre $(1,4)$ y $(3,12)$ sería:
 
 slope= $\frac{(y2−y1)}{(x2−x1)}$ = $\frac{(12-4)}{(3-1)} = 4$
 
-### Casos de usos de Machine 
+### Casos de uso de Machine Learning
 
 Machine learning usa derivadas en la optimización de problemas. Los algoritmos de optimización como el descenso de gradiente utilizan derivadas para decidir si aumentar o disminuir los pesos para maximizar o minimizar algún objetivo (por ejemplo, la precisión de un modelo o las funciones de error). Las derivadas también nos ayudan a aproximar funciones no lineales como funciones lineales (líneas tangentes), que tienen pendientes constantes. Con una pendiente constante, podemos decidir si subir o bajar la pendiente (aumentar o disminuir nuestros pesos) para acercarnos al valor objetivo (class label).
 
