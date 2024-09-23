@@ -5,13 +5,13 @@ El cálculo, el álgebra lineal y la probabilidad son los "lenguajes" en los que
 
 El cálculo es el estudio matemático de cambio continuo. Necesitas saber un poco de cálculo básico para entender mejor los conceptos de Machine Learning y el comportamiento de las funciones.
 
-Vamos a hablar sobre las tres grandes ideas del Cálculo: Integrales, Derivadas, y el hecho de que son opuestos.
+Vamos a hablar sobre las tres grandes ideas del cálculo: Integrales, Derivadas, y el hecho de que son opuestos.
 
 **Derivadas** tratan de comprender cómo cambian las funciones con el tiempo.
 
 **Integrales** te permiten calcular el total de una cantidad que se acumula durante un período de tiempo.
 
-Entonces, pensando como un ingeniero, no solo nos importa encontrar las respuestas. Nos preocupamos por desarrollar herramientas y técnicas de resolución de problemas. Un gran tema en Cálculo es que la aproximación usando muchas piezas más pequeñas nos da la flexibilidad de reformular nuestra pregunta original en algo más simple. Un gran problema es por un lado, la suma de muchos valores pequeños, pero por otro lado, esa suma también se aproxima al área bajo un gráfico.
+Entonces, pensando como un ingeniero, no solo nos importa encontrar las respuestas. Nos preocupamos por desarrollar herramientas y técnicas de resolución de problemas. Un gran tema en cálculo es que la aproximación usando muchas piezas más pequeñas nos da la flexibilidad de reformular nuestra pregunta original en algo más simple. Un gran problema es por un lado, la suma de muchos valores pequeños, pero por otro lado, esa suma también se aproxima al área bajo un gráfico.
 
 ### Integrales
 
