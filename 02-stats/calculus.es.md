@@ -53,7 +53,7 @@ Una derivada se puede definir de dos maneras:
 
 2.	La pendiente de una línea en un punto específico (Geometría)
 
-Nosotros vamos a usar la definición de geometría para una explicación mas sencilla.
+Nosotros vamos a usar la definición de geometría para una explicación más sencilla.
 
 La pendiente representa la inclinación de una recta. Significa: ¿Cuánto cambia $y$ (o $f(x)$) dado un cambio específico en $x$?
 
