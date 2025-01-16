@@ -72,7 +72,7 @@ slope= $\frac{(y2−y1)}{(x2−x1)}$ = $\frac{(12-4)}{(3-1)} = 4$
 Machine learning usa derivadas en la optimización de problemas. Los algoritmos de optimización como el descenso de gradiente utilizan derivadas para decidir si aumentar o disminuir los pesos para maximizar o minimizar algún objetivo (por ejemplo, la precisión de un modelo o las funciones de error). Las derivadas también nos ayudan a aproximar funciones no lineales como funciones lineales (líneas tangentes), que tienen pendientes constantes. Con una pendiente constante, podemos decidir si subir o bajar la pendiente (aumentar o disminuir nuestros pesos) para acercarnos al valor objetivo (class label).
 
 
-References:
+Referencias:
 
 https://en.wikipedia.org/wiki/Calculus
 
