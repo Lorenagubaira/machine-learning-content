@@ -3,7 +3,7 @@
 Calculus, linear algebra and probability are the 'languages' in which machine learning is written. 
 Learning these topics will provide a deeper understanding of the underlying algorithmic mechanics and allow the development of new algorithms, which can ultimately be deployed as more sophisticated quantitative trading strategies.
 
-Calculus is the mathematical study of continuous change. You need to know some basic calculus to understand better the machine learning concepts and the function's behavior.
+Calculus is the mathematical study of continuous change. You need to know some basic calculus to better understand the machine learning concepts and the function's behavior.
 
 Let's talk about the three big ideas of Calculus: Integrals, Derivatives, and the fact that they are opposites.
 
@@ -11,12 +11,12 @@ Let's talk about the three big ideas of Calculus: Integrals, Derivatives, and th
 
 **Integrals** let you calculate the total amount of a quantity that accumulates over a time period.
 
-So, thinking like an engineer, we don't just care about finding answers. We care about developing problem-solving tools and techniques. A big theme in Calculus is that the approximation using many smaller pieces gives us the flexibility to reframe our original question into something simpler. A hard problem is on one hand the sum of many small values, but on the other hand, that sum also approaches the area under a graph.
+From an engineering perspective, the focus is not solely on obtaining solutions but also on developing generalizable problem-solving tools and techniques. A big theme in Calculus is that the approximation using many smaller pieces gives us the flexibility to reframe our original question into something simpler. A complex problem can be approached by considering it as the sum of many small values. This sum, in turn, can be represented as the area under a graph.
 
 
 ### Integrals
 
-For example, if we wanted to know how far a person walked based on its velocity at each point of time, we can divide it by many points in time and multiply the velocity at each time (t) by some small change in time (dt) to get the corresponding smaller distance walked in that smaller time.
+For example, if we wanted to know how far a person walked based on their velocity at each point of time, we can divide the time interval into many points in time and multiply the velocity at each time (t) by some small change in time (dt) to get the corresponding smaller distance walked in that smaller time.
 
 Many of these types of problems turn out to be equivalent to finding the area under some graph. The purpose of small approximations is that it lets us reframe the problem of how far the person has walked into the question of finding the area under a certain curve.
 
